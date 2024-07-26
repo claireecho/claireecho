@@ -1,3 +1,4 @@
+![Banner](https://github.com/claireecho/claireecho/blob/main/1712938166576.jpeg?raw=true)
 ## Hello, I'm Claire! 👋  
 👩 Pronouns: she/her/hers  
 💻 Favorite Tech: React, Typescript, Python, Node  
