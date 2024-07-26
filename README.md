@@ -1,8 +1,8 @@
 ## Hello, I'm Claire! 👋
-👩 Pronouns: she/her/hers
-💻 Favorite Tech: React, Typescript, Python, Node
-🌐 LinkedIn: https://www.linkedin.com/in/claire-e-cho
-🚦 Status: Searching for internships and grinding LeetCode
+👩 Pronouns: she/her/hers 
+💻 Favorite Tech: React, Typescript, Python, Node 
+🌐 LinkedIn: https://www.linkedin.com/in/claire-e-cho 
+🚦 Status: Searching for internships and grinding LeetCode 
 <!--
 **claireecho/claireecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
